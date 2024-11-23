@@ -1,5 +1,5 @@
 import React from 'react'
-import images from '../../assets/images.svg'
+import images from '../../assets/Images.svg'
 
 function Collage() {
   return (
