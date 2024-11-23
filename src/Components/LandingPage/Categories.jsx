@@ -1,7 +1,7 @@
 import React from 'react'
-import living from '../../Assets/living.svg'
-import dining from '../../Assets/dining.svg'
-import bedroom from '../../Assets/bedroom.svg'
+import living from '../../assets/living.svg'
+import dining from '../../assets/dining.svg'
+import bedroom from '../../assets/bedroom.svg'
 
 function Categories() {
   return (
