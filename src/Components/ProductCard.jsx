@@ -3,11 +3,11 @@ import { FaShareAlt, FaExchangeAlt, FaHeart } from 'react-icons/fa'
 
 function ProductCard({ name, description, price, cutPrice, img }) {
   return (
-    <div className='inline-block w-[22%] relative group'>
+    <div className='inline-block w-[22%] relative group pb-5 bg-[#F4F5F7]'>
       <div className='flex justify-center'>
         <img src={img} alt={name} className='w-full h-[350px] object-cover' />
       </div>
-      <div className='p-4 pt-6 bg-[#F4F5F7]'>
+      <div className='p-4 pt-6 '>
         <h1 className='font-semibold text-[24px] leading-[28.8px]'>{name}</h1>
         <p className='text-[16px] text-[#898989] leading-[24px] font-medium'>{description}</p>
         <div className='flex items-center justify-between'>
