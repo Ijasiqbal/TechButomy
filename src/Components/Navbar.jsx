@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../Assets/Logo.png'
+import Logo from '../assets/Logo.png'
 import profileIcon from '../assets/profileIcon.svg'
 import searchIcon from '../assets/searchIcon.svg'
 import heartIcon from '../assets/heartIcon.svg'
